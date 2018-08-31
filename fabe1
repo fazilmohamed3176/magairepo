@@ -1,0 +1,7 @@
+ a=int(raw_input("Enter the number"))
+    if(a<10):
+        print("is the positive")
+    elif(a>10 and a<15):
+        print("a is negative")
+    else:
+        print("zero")
